@@ -1,0 +1,3 @@
+- Clone this repository
+- Execute `docker-compose up -d`
+- Open http://localhost:8080
